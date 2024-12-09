@@ -1,0 +1,3 @@
+/home/medhk/Trees/build/CMakeFiles/Trees.dir
+/home/medhk/Trees/build/CMakeFiles/edit_cache.dir
+/home/medhk/Trees/build/CMakeFiles/rebuild_cache.dir
